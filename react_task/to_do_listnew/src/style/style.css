@@ -1,0 +1,37 @@
+.task-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+  }
+  .add-button {
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Зеленый цвет */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+  }
+  
+  .task-title {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .task-description {
+    color: #666;
+  }
+  
+  .task-end-time, .task-status {
+    color: #888;
+    margin-top: 5px;
+  }
+  
